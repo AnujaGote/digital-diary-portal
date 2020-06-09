@@ -1,0 +1,9 @@
+Implementation of VRecord - Digital Diary.
+
+Web based Digitization of Academic Administration Plan and Course Diary.
+Cater to in-semester academic processes such as continuous assessments, beyond syllabus activities, etc.
+Auto-generation of formatted AAP and course diary along with annexure in pdf format.
+
+Ashish Shekhar, Rohit Barve, Anuja Gote(self) and Arpita Raut
+
+As per the feasibility (subject to approval), executable modules of the project "Digitally Enabled Campus".
